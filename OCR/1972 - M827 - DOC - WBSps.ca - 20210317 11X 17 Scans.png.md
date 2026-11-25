@@ -1,5 +1,5 @@
 # 1972 - M827 - DOC - WBSps.ca - 20210317 11X 17 Scans.png
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** 1972 (found in this ad: "DATE NOV 72")
@@ -67,7 +67,7 @@ QW TRANSTEX 18200-9-72
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M827/1972 - M827 - DOC - WBSps.ca - 20210317 11X 17 Scans.png",
+ "file": "Modules/AMPLIFIERS/M827/MANUALS/1972 - M827 - DOC - WBSps.ca - 20210317 11X 17 Scans.png",
  "sha256": "1d053aaa260cab6840e76e47738bfe9714cfba9f8b825780555917534f2fb617",
  "kind": "doc",
  "models": [
