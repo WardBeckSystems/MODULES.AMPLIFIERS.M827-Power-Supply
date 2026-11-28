@@ -1,6 +1,6 @@
 # M827 Power Supply · Amplifiers
 
-Ward-Beck Systems M827, 1972|5. Wiki page: [M827 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M827.html)
+Ward-Beck Systems M827, 1972|5. Wiki page: [M827 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M827-Power-Supply/)
 
 | Folder | What is in it | Files |
 |---|---|---|

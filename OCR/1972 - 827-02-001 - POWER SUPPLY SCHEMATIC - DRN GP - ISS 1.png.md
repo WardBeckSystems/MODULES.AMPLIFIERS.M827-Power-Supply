@@ -1,5 +1,5 @@
 # 1972 - 827-02-001 - POWER SUPPLY SCHEMATIC - DRN GP - ISS 1.png
-Wiki page: [M827](../../../../PAGES/M827.md)
+Wiki page: [M827](../)
 
 
 - **Year:** 1972 (title block date)
